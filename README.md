@@ -1,30 +1,38 @@
-# Project Name
+Here’s a well-structured `README.md` description for your Java program:  
 
-<ul>
-<li>
-clone in your computer: 
+---
 
-```
-git clone your_repo_url
-cd your_repo_dir
-```
-</li>
+# Project2_AP_KNTU  
 
-<li>
-run tests from terminal:
+## Description  
+**Project2_AP_KNTU** is a Java-based application developed as part of an **Advanced Programming** course at **KNTU**. The project demonstrates object-oriented programming (OOP) principles, data structures, and algorithms by implementing a structured Java application.  
 
-```
-./gradlew clean test
-```
-</li>
+## Features  
+- Object-oriented design with encapsulation, inheritance, and polymorphism.  
+- Efficient use of data structures (e.g., lists, maps, queues).  
+- File handling for data persistence.  
+- Interactive user interface (CLI or GUI, if applicable).  
+- Error handling and exception management.  
 
-<li>
-push changes to the repository:
+## Installation  
+1. Clone the repository:  
+   ```sh
+   git clone https://github.com/mahajialirezaei/Project2_AP_KNTU.git
+   ```  
+2. Open the project in an IDE such as **IntelliJ IDEA** or **Eclipse**.  
+3. Ensure **JDK 11+** is installed.  
+4. Compile and run the application:  
+   ```sh
+   javac Main.java
+   java Main
+   ```  
 
-```
-git add . 
-git commit -m "commit message"
-git push
-```
-</li>
-</ul>
+## Usage  
+- Run the program and follow the on-screen instructions.  
+- Modify configuration files (if any) to adjust settings.  
+
+## Contributing  
+Feel free to fork the repository and submit pull requests for improvements.  
+
+
+---
